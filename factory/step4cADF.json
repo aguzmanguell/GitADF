@@ -1,0 +1,9 @@
+{
+	"name": "step4cADF",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "16f5aab3-413a-44ed-a296-5c129b189312",
+		"tenantId": "4e94a964-6295-4e24-9799-9b27c4167d6e"
+	}
+}
